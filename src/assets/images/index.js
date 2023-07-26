@@ -1,4 +1,4 @@
-import logo from "./orebiLogo.png";
+import logo from "./smartcart.jpg";
 import logoLight from "./logoLight.png";
 import bannerImgOne from "./banner/bannerImgOne.webp";
 import bannerImgTwo from "./banner/bannerImgTwo.webp";
@@ -32,36 +32,36 @@ import paymentCard from "./payment.png";
 import emptyCart from "../images/emptyCart.png";
 
 export {
-  logo,
-  logoLight,
-  bannerImgOne,
-  bannerImgTwo,
-  bannerImgThree,
-  saleImgOne,
-  saleImgTwo,
-  saleImgThree,
-  // ===================== Products start here ============
-  // New Arrivals
-  newArrOne,
-  newArrTwo,
-  newArrThree,
-  newArrFour,
+    logo,
+    logoLight,
+    bannerImgOne,
+    bannerImgTwo,
+    bannerImgThree,
+    saleImgOne,
+    saleImgTwo,
+    saleImgThree,
+    // ===================== Products start here ============
+    // New Arrivals
+    newArrOne,
+    newArrTwo,
+    newArrThree,
+    newArrFour,
 
-  // Best Sellers
-  bestSellerOne,
-  bestSellerTwo,
-  bestSellerThree,
-  bestSellerFour,
+    // Best Sellers
+    bestSellerOne,
+    bestSellerTwo,
+    bestSellerThree,
+    bestSellerFour,
 
-  // Sprcial Offers
-  spfOne,
-  spfTwo,
-  spfThree,
-  spfFour,
+    // Sprcial Offers
+    spfOne,
+    spfTwo,
+    spfThree,
+    spfFour,
 
-  // Year Product
-  productOfTheYear,
-  // ===================== Products End here ==============
-  paymentCard,
-  emptyCart,
+    // Year Product
+    productOfTheYear,
+    // ===================== Products End here ==============
+    paymentCard,
+    emptyCart,
 };
